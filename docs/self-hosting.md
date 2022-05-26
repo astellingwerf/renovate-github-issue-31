@@ -2,7 +2,7 @@ Bla bla
 
 ```sh
 docker run --rm renovate/renovate
-docker run --rm renovate/renovate:31.14.0
-docker run --rm renovate/renovate:31.14
-docker run --rm renovate/renovate:31
+docker run --rm renovate/renovate:32.66.5
+docker run --rm renovate/renovate:32.66
+docker run --rm renovate/renovate:32
 ```
